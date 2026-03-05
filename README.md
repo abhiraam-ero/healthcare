@@ -1,8 +1,7 @@
 # React + TypeScript + Vite
 
 
-# vist the Website :
-(https://h34tcghtz4mfs.ok.kimi.link)
+# vist the Website :(https://h34tcghtz4mfs.ok.kimi.link)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
